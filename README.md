@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kivie
 - 👀 I have a passion for computer programming.
 - 🌱 I’m currently expanding my knowledge of various programming languages.
-- 💞️ I’m interested in collaborating on OGFN projects.
 - 📫 You can reach me at kiviedev@yahoo.com.
 - ⚡ Fun fact: I believe I can accomplish anything I set my mind to.
